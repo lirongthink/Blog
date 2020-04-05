@@ -4,7 +4,7 @@
 ## 学习历程
 - 数据结构与算法
 ## 快速入门数据结构与算法系列
-1.[快速入门数据结构与算法之概论]()  
-2.[快速入门数据结构与算法之线性结构]()  
-3.[快速入门数据结构与算法之递归]()  
-4.[快速入门数据结构与算法之常见的插入与排序算法]()  
+1.[快速入门数据结构与算法之概论](https://github.com/lirongthink/Blog/issues/1)  
+2.[快速入门数据结构与算法之线性结构](https://github.com/lirongthink/Blog/issues/2)  
+3.[快速入门数据结构与算法之递归](https://github.com/lirongthink/Blog/issues/3)  
+4.[快速入门数据结构与算法之常见的插入与排序算法](https://github.com/lirongthink/Blog/issues/4)  
