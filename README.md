@@ -9,4 +9,5 @@
 3.[快速入门数据结构与算法之递归](https://github.com/lirongthink/Blog/issues/3)  
 4.[快速入门数据结构与算法之常见的插入与排序算法](https://github.com/lirongthink/Blog/issues/4)  
 5.[快速入门数据结构与算法之贪心、分治与动态规划](https://github.com/lirongthink/Blog/issues/5)   
-6.[快速入门数据结构与算法之散列](https://github.com/lirongthink/Blog/issues/6)
+6.[快速入门数据结构与算法之散列](https://github.com/lirongthink/Blog/issues/6)  
+7.[快速入门数据结构与算法之一文读懂树结构(近8000字长文)](https://github.com/lirongthink/Blog/issues/7)
