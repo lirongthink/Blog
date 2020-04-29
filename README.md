@@ -2,7 +2,7 @@
 ## 掘金主页
 [掘金主页](https://juejin.im/user/5c8a04db5188257afe2d80b4)
 ## 学习历程
-- 数据结构与算法(更新中)
+- 数据结构与算法(已完结)
 ## 快速入门数据结构与算法系列
 1.[快速入门数据结构与算法之概论](https://github.com/lirongthink/Blog/issues/1)  
 2.[快速入门数据结构与算法之线性结构](https://github.com/lirongthink/Blog/issues/2)  
